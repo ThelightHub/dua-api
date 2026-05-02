@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "dua",
+	"name": "dua-api",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-04-21",
 	"compatibility_flags": [
