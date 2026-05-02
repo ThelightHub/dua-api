@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my",
+	"name": "dua",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-04-21",
 	"compatibility_flags": [
@@ -12,8 +12,8 @@
     "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "shop-bot",
-      "database_id": "3f72b578-a57d-4262-88f1-58e5bc1b4ba4"
+      "database_name": "hisnulbd",
+      "database_id": "134731b1-160c-47bd-8afb-f74607c2c3bf"
     }
   ]
 }
