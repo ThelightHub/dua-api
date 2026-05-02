@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "deploy": "npm run upload && npm run cf-typegen && wrangler deploy",
+    "deploy": "npm run cf-typegen && wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
     "upload": "node upload-to-d1.js --db hisnulbd --batch 50",
@@ -15,7 +15,6 @@
     "wrangler": "^4.81.1"
   },
   "dependencies": {
-	"hono": "^4.12.12",
-	"csv-parse": "^6.2.1"
+	"hono": "^4.12.12"
   }
 }
