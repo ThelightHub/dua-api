@@ -2,6 +2,8 @@
 
 > A free, open-source REST API for **Hisnul Muslim** (হিসনুল মুসলিম) — delivering authentic duas in **Arabic**, **Bengali transliteration**, and **word-by-word breakdown**, powered by Cloudflare Workers + D1.
 
+[![Telegram](https://img.shields.io/badge/Telegram-@CyberCoderBD-blue?style=social&logo=telegram)](https://t.me/CyberCoderBD)
+
 🌐 **Live API:** [`https://dua-api.hisnul.workers.dev/`](https://dua-api.hisnul.workers.dev/)
 
 ---
