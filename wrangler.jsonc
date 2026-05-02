@@ -1,0 +1,19 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "my",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-04-21",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"observability": {
+		"enabled": true
+	},
+    "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "shop-bot",
+      "database_id": "3f72b578-a57d-4262-88f1-58e5bc1b4ba4"
+    }
+  ]
+}
