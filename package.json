@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "deploy": "npm run cf-typegen && wrangler deploy",
+    "deploy": "npm run upload && npm run cf-typegen && wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
     "upload": "node upload-to-d1.js --db hisnulbd --batch 50",
